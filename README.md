@@ -58,7 +58,7 @@ The goal was to create a **normalized, scalable, and flexible schema** suitable 
 - Records combinations of `product`, `color`, and `size`.
 - Used to organize available options for users to select from on the product page.
 
-### 🔹 `product_attribute`, `attribute_type`, `attribute_category`
+### `product_attribute`, `attribute_type`, `attribute_category`
 - Allows products to have flexible, custom attributes (e.g., fabric type, power usage).
 - Each attribute has a type (text, number, boolean) and a category (technical, physical).
 
